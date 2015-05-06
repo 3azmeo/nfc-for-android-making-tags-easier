@@ -1,0 +1,1 @@
+A team project that will be available to the public. Our goal is to make a android app that will make NFC easier for everyone. This includes reading tags, and making tags.
